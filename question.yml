@@ -1,0 +1,26 @@
+scale_questions:
+  - id: mood
+    text: "Overall mood today"
+    min: 1
+    max: 10
+  - id: energy
+    text: "Energy level today"
+    min: 1
+    max: 10
+  - id: sleep
+    text: "Quality of sleep"
+    min: 1
+    max: 10
+
+free_text_questions:
+  - id: highlight
+    text: "Highlight of the day?"
+  - id: lowlight
+    text: "What was hard today?"
+  - id: activities
+    text: "What did you do today?"
+
+tags_question:
+  enabled: false
+  id: tags
+  text: "Optional tags for your day (comma-separated, e.g. work,social,health)"
