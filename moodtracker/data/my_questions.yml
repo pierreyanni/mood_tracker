@@ -19,6 +19,8 @@ free_text_questions:
     text: "What was hard today?"
   - id: activities
     text: "What did you do today?"
+  - id: pain
+    text: "Do you have a physical pain? Where? How intense (low/med/high)?"
 
 tags_question:
   enabled: false
